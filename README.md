@@ -26,6 +26,14 @@ List of ready works:
                     to share behaviors and characteristics across different animal classes.
 - KAN-49-Vehicle:   Implement a Python program that models a simplified vehicle management system,
                     showcasing inheritance and polymorphism, without using property decorators for encapsulation.
+- KAN-52-EX1:       Implement a custom container class that mimics a list but with access control.
+                    Users should be able to add elements to the list only if they have the correct permissions.
+- KAN-52-EX2:       Create a decorator that logs the entry and exit of every method call in a class.
+- KAN-52-EX3:       Design a set of classes that simulate a zoo where different types of animals can
+                    exhibit unique behaviors.
+- KAN-52-EX4:       Implement a Singleton metaclass that ensures a class has only one instance.
+- KAN-52-EX5:       Implement the command pattern to support undoable operations in a software
+                    application.
 
 
 ## Project Status
